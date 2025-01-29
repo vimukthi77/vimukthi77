@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimukthi77&label=Profile%20views&color=0e75b6&style=flat" alt="vimukthi77" /> </p>
 
-- 🔭 I’m currently working on **test**
+- 🔭 I’m currently working on **Agro docter**
 
 - 🌱 I’m currently learning **oop**
 
-- 👯 I’m looking to collaborate on **test1**
+- 👯 I’m looking to collaborate on **internship**
 
-- 🤝 I’m looking for help with **test2**
+- 🤝 I’m looking for help with **Guide me app**
 
 - 💬 Ask me about **java**
 
